@@ -6,9 +6,8 @@ Full-stack web developer with a strong focus on scalable backend systems, clean 
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: Full-stack and API-driven projects 
-- 🌱 I’m always learning new technologies and improving my skills.  
-- 🧠 Competitive programming: Codeforces problem solver  
+- 🔭 I’m currently working on: Full-stack and API-driven projects.
+- 🌱 I’m always learning new technologies and improving my skills.
 - 💬 Ask me about anything related to coding, technology, or my projects!  
 - 📫 Reach me at: **mubtasimfuad7@gmail.com**
 
