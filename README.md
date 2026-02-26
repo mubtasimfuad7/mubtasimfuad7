@@ -1,13 +1,15 @@
 ## 👋 Hi there, I'm Mubtasim Fuad
 
-Welcome to my GitHub profile! I’m an aspiring web developer and problem solver who enjoys building clean UIs and learning backend development.
+Welcome to my GitHub profile! I’m a web developer passionate about building clean UIs, scalable backend systems, and solving real-world problems through code.
+
+🛠️ Aspiring Backend Engineer | 🧠 Competitive Programmer
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: small web projects and API‑based apps  
-- 🌱 Learning: modern JavaScript, backend frameworks, and problem solving  
+- 🔭 I’m currently working on: Full-stack and API-driven projects 
+- 🌱 I’m always learning new technologies and improving my skills.  
 - 🧠 Competitive programming: Codeforces problem solver  
-- 💬 Ask me about: HTML, CSS, basic JavaScript, and beginner DSA  
+- 💬 Ask me about anything related to coding, technology, or my projects!  
 - 📫 Reach me at: **mubtasimfuad7@gmail.com**
 
 ---
