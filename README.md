@@ -11,6 +11,8 @@ Full-stack web developer with a strong focus on scalable backend systems, clean 
 - 🧠 Competitive programming: Codeforces problem solver  
 - 💬 Ask me about anything related to coding, technology, or my projects!  
 - 📫 Reach me at: **mubtasimfuad7@gmail.com**
+- 💼 **LinkedIn:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mubtasim_Fuad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubtasim-fuad-382a68227/)
 
 ---
 
