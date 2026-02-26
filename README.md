@@ -52,15 +52,6 @@ Welcome to my GitHub profile! I’m an aspiring web developer and problem solver
 
 ---
 
-## 📌 Featured Project
 
-### 🔍 Image Search App
-
-A modern image search web app powered by the **Unsplash API**.
-
-- 🌐 Live demo: [Image Search App](https://mubtasimfuad7.github.io/image-search-APP/)
-- 💻 Code: [GitHub Repository](https://github.com/mubtasimfuad7/image-search-APP)
-
----
 
 Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration.
