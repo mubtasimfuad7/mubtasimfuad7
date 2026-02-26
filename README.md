@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mubtasim Fuad
 
-Welcome to my GitHub profile! I’m a web developer passionate about building clean UIs, scalable backend systems, and solving real-world problems through code.
+Full-stack web developer with a strong focus on scalable backend systems, clean user interfaces, and performance-driven solutions.
 
 🛠️ Aspiring Backend Engineer | 🧠 Competitive Programmer
 
